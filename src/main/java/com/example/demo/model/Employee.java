@@ -18,7 +18,7 @@ public class Employee {
     @Column(name="id")
     private long id;
 
-    @Column(name="name")
+    @Column(name="names")
     private String name;
 
     @Column(name="age")
